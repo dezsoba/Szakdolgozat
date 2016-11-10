@@ -1,0 +1,13 @@
+A Clipping áramkört (ami a bemeneten lévõ feszt vágja le) vizsgáltam, hogy a mérési tartományon mennyit ront
+a linearitáson. Mivel a beállított vágási feszültségek közelében egyre jobban torzított, a vágási feszültségeket
+"kintebb" toltam a mérési tartományon. így -200mV és 3.2V a két végérték. Ezek az ADC bemenetén megengedettek,
+az ADC -300mV-ot enged meg AGND-hez képest, és AVDD+0.3-at, ami jelen esetben 5.3V.
+
+
+A PDF-ekben mutatott jelalak a bemeneti feszültség és az osztott feszültség arányát mutatja, az Y tengelye
+ennek az aránynak úgy lett skálázva, hogy a maximum és minimum érték ami még megjelenítésre kerül, a +-0.1% a
+névleges aránynak.
+
+Látható, hogy a 0-6V rangen 1V-ig jó a linearitás, ami a mérési tartományunk alatt van már.
+
+A 0-30V rangen kb 4.5V-ig jó a linearitás, ami megfelelõ, hiszen ez alatt már másik range-ben lesz az adott bemenet.
