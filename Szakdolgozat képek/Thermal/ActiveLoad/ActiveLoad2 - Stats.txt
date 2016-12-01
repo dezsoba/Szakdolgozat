@@ -1,0 +1,8 @@
+              Statistic [units]                          Image                            TMP
+                       Mean [C]                          24.34                          27.27
+                            Sum                            N/A                            N/A
+                  Std. Dev. [C]                           1.57                           1.43
+                     Center [C]           (319.5, 239.5) 25.42           (367.0, 194.5) 29.37
+                    Maximum [C]               (414, 353) 42.02               (366, 196) 31.41
+                    Minimum [C]                (622, 37) 22.47               (358, 184) 24.11
+               Number of Pixels                         307200                            504

@@ -1,0 +1,8 @@
+              Statistic [units]                          Image                   VoltInverter
+                       Mean [C]                          29.29                          43.49
+                            Sum                            N/A                            N/A
+                  Std. Dev. [C]                           5.87                           1.99
+                     Center [C]           (319.5, 239.5) 40.93           (375.5, 423.0) 46.73
+                    Maximum [C]               (581, 136) 56.37               (379, 423) 47.85
+                    Minimum [C]               (178, 213) 21.97               (387, 441) 37.93
+               Number of Pixels                         307200                            770

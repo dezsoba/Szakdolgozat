@@ -1,0 +1,8 @@
+              Statistic [units]                          Image                            LDO
+                       Mean [C]                          24.32                          28.77
+                            Sum                            N/A                            N/A
+                  Std. Dev. [C]                           1.59                           1.91
+                     Center [C]           (319.5, 239.5) 25.47           (375.0, 319.0) 35.45
+                    Maximum [C]               (414, 353) 42.27               (414, 353) 42.27
+                    Minimum [C]                (604, 72) 22.35               (407, 365) 23.45
+               Number of Pixels                         307200                          11445
